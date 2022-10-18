@@ -26,5 +26,8 @@
 @tailwind utilities;
 
 .active {
-  color: blue;
+  color: rgb(18, 58, 132);
+  font-size: large;
+  font-weight: bold;
+  /* text-decoration: underline; */
 }
