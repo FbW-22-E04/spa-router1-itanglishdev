@@ -1,8 +1,10 @@
 import { NavLink } from "react-router-dom";
+import '../App.css'
+
 
 function NavHeader() {
   return (
-    <div className="h-[100px] bg-sky-200  mt-[20px] ">
+    <div className="h-[100px] bg-sky-200  mt-[20px] max-w-4xl">
       <h1 className=" pt-[20px] text-center text-xl" >About Me</h1>
       <ul className="ml-[20px] flex gap-[50px]" >
 

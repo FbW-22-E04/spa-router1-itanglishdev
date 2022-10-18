@@ -2,7 +2,7 @@ import '../App.css'
 
 function App() {
   return (
-    <div className="h-[300px] bg-sky-200  m-[20px] p-[20px] ">
+    <div className="h-[350px] bg-sky-200  m-[20px] p-[30px] max-w-3xl">
       <div className='flex '>
         <div>
           <img className='w-[110px] h-[100px]' src="https://picsum.photos/400/400" alt="" />
