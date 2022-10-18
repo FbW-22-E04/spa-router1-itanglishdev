@@ -5,9 +5,8 @@ function App() {
     <div className="h-[300px] bg-sky-200  m-[20px] p-[20px] ">
       <div className='flex '>
         <div>
-          <div className='w-[100px] h-[100px] bg-blue-600'>
+          <img className='w-[110px] h-[100px]' src="https://picsum.photos/400/400" alt="" />
 
-          </div>
         </div>
         <div className='ml-[40px]'>
           <p><strong>My Name</strong> </p>
